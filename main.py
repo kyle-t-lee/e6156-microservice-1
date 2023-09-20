@@ -1,5 +1,3 @@
-
-
 from fastapi import FastAPI, Response
 
 # I like to launch directly and not use the standard FastAPI startup
